@@ -1,0 +1,355 @@
+{
+  "data": {
+    "id": 62989767,
+    "start_date": "2024-03-20 21:15:00",
+    "end_date": "2024-03-20 21:30:00",
+    "max_booking_date": null,
+    "status": "cancelled",
+    "is_upcoming": true,
+    "is_cancelled": true,
+    "is_infinite": false,
+    "has_journey": false,
+    "journey_id": null,
+    "vehicle_id": 10529487,
+    "driver": {
+      "id": 7027564,
+      "first_name": "Sam",
+      "company_name": "",
+      "photo": {
+        "small": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        },
+        "normal": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        },
+        "square": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        }
+      },
+      "is_managed": false,
+      "sms": {
+        "phone_number": "+447542633769",
+        "sms_verified": false,
+        "number": "7542633769",
+        "country_code": 44
+      },
+      "phone_number": "+447542633769"
+    },
+    "listing_id": 832784,
+    "pending_cancellation": false,
+    "visual_code": "https://staging.justpark.me/api/v4/users/bookings/62989767/code/",
+    "access_instructions": "This is M&S Sevenoaks car park.\r\n\r\n1. The address is London Road, Sevenoaks . Use post code TN13 1AU.\r\n\r\n2. The car park is located in the M&S shopping centre. The entrance can be found on London Rd, A224.\r\n\r\n3. Use the picture for reference.\r\n\r\n4. Park in any available bay.",
+    "driver_total": {
+      "value": 1.12,
+      "formatted": "£1.12"
+    },
+    "owner_total": {
+      "value": 0.49,
+      "formatted": "£0.49"
+    },
+    "voucher": null,
+    "is_reviewed": false,
+    "currency": {
+      "symbol": "£",
+      "code": "GBP"
+    },
+    "drive_up": false,
+    "listing": {
+      "id": 832784,
+      "type": "justpark",
+      "title": "M&S Sevenoaks",
+      "custom_title": null,
+      "active": true,
+      "snoozed": false,
+      "slug": "/uk/parking/london-road/s/london-road-sevenoaks-london-road-tn13-1at/",
+      "checkout_url": "https://staging.justpark.me/parking-spaces/london-road-sevenoaks-london-road-tn13-1at/",
+      "city_slug": "london-road",
+      "description": "Fantastic parking available in London Road. Ideally located for work or leisure trips, so you can get on with your day.\r\n\r\nThis space is not suited to vans or minibuses.\r\n\r\nThe spaces are available Mon - Sat 08:00 - 21:30 and Sun 09:00 - 17:30\r\n\r\nYou will be able to enter and exit multiple times during your booking.\r\nMonday - Saturday\r\n08:00 - 21:30\r\nUp to 30 minutes - £0.63\r\n30 minutes to 1 hour - £1.35\r\n1 hour to 2 hours - £2.70\r\n2 hours to 3 hours - £4.50\r\n3 hours to 4 hours - £9.00\r\n\r\nSunday - Sunday\r\n09:00 - 17:30\r\nUp to 30 minutes - £0.63\r\n30 minutes to 1 hour - £1.35\r\n1 hour to 2 hours - £2.70\r\n2 hours to 3 hours - £4.50\r\n3 hours to 4 hours - £9.00\r\nMonday - Saturday\r\n08:00 - 21:30\r\nUp to 30 minutes - £0.63\r\n30 minutes to 1 hour - £1.35\r\n1 hour to 2 hours - £2.70\r\n2 hours to 3 hours - £4.50\r\n3 hours to 4 hours - £9.00\r\n\r\nSunday - Sunday\r\n09:00 - 17:30\r\nUp to 30 minutes - £0.63\r\n30 minutes to 1 hour - £1.35\r\n1 hour to 2 hours - £2.70\r\n2 hours to 3 hours - £4.50\r\n3 hours to 4 hours - £9.00\nMonday - Saturday\n08:00 - 21:30\nUp to 30 minutes - £0.63\n30 minutes to 1 hour - £1.35\n1 hour to 2 hours - £2.70\n2 hours to 3 hours - £4.50\n3 hours to 4 hours - £9.00\n\nSunday - Sunday\n09:00 - 17:30\nUp to 30 minutes - £0.63\n30 minutes to 1 hour - £1.35\n1 hour to 2 hours - £2.70\n2 hours to 3 hours - £4.50\n3 hours to 4 hours - £9.00\n\nMonday - Sunday\n00:00 - 23:59\nSession - £66.00\n",
+      "category": "Private car park",
+      "business_type": "Managed",
+      "type_of_space": "IS_CARPARK",
+      "booking_count": 60,
+      "owner_type": "INDIVIDUAL",
+      "number_of_spaces": 2,
+      "vehicleDimensions": "MEDIUM",
+      "width": "NORMAL",
+      "max_booking_length": 0,
+      "max_booking_length_minutes": null,
+      "has_anpr": false,
+      "currency": {
+        "code": "GBP",
+        "symbol": "£"
+      },
+      "feedback": {
+        "count": 60,
+        "average_rating": 5,
+        "latest_review": null
+      },
+      "cancellation_policy": {
+        "policy": "moderate",
+        "url": "https://staging.justpark.me/api/v4/content/cancellation-policy/"
+      },
+      "height": null,
+      "facilities": [
+        {
+          "id": "has_cctv",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Has CCTV.",
+          "title": "CCTV"
+        },
+        {
+          "id": "is_underground",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Is underground.",
+          "title": "Underground"
+        },
+        {
+          "id": "has_multiple_entry",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Multiple entry and exit allowed",
+          "title": "Multiple entry and exit allowed"
+        }
+      ],
+      "address": {
+        "id": 7771484,
+        "address1": "London Road, Sevenoaks",
+        "address2": null,
+        "address3": null,
+        "city": "London Road",
+        "state": null,
+        "country": "GB",
+        "location": {
+          "lat": 51.272538,
+          "lng": 0.190641
+        },
+        "house_no": "66",
+        "postal_code": "TN13 1AT"
+      },
+      "owner": {
+        "id": 10985243,
+        "first_name": "Smart",
+        "company_name": "Smart Parking",
+        "photo": {
+          "small": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          },
+          "normal": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          },
+          "square": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          }
+        },
+        "is_managed": true,
+        "sms": {
+          "phone_number": "+442043989792",
+          "sms_verified": true,
+          "number": "2043989792",
+          "country_code": 44
+        },
+        "phone_number": "+442043989792"
+      },
+      "photos": [
+        {
+          "id": 219019,
+          "thumbnail": {
+            "url": "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/80a7501d-45d8-4dc5-87d8-e63e2acfe2fa-thumb.jpg",
+            "width": 120,
+            "height": 120
+          },
+          "normal": {
+            "url": "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/7c4aa5c1-6ee3-4fe3-baa5-ca022fe39779-normal.jpg",
+            "width": 800,
+            "height": 600
+          }
+        },
+        {
+          "id": 219020,
+          "thumbnail": {
+            "url": "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/8bba5356-74ef-4b10-850b-8369ca0bd1ae-thumb.jpg",
+            "width": 120,
+            "height": 120
+          },
+          "normal": {
+            "url": "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/e797dc58-4c10-4e10-a3f1-54982cdf8af6-normal.jpg",
+            "width": 800,
+            "height": 600
+          }
+        }
+      ],
+      "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.272538%2C0.190641&size=578x198&zoom=14&sensor=false&visual_refresh=true&markers=icon%3Ahttps%3A%2F%2Fwww.justpark.com%2Fmedia%2Fimg%2Ficons%2Fmap-markers%2Flarge%2Fmap-marker-p.png%7C51.272538%2C0.190641&key=AIzaSyAWSjjD7b6aH6aQw1uuqshkr7heEmbu_2Q&signature=3gA-gFbx27KnNGfDwvR28Bm3zS0=",
+      "lat": "51.272538",
+      "lng": "0.190641",
+      "streetview_data": {
+        "lat": 51.272538,
+        "lng": 0.190641,
+        "heading": 70.68626424273955,
+        "pitch": -3.2671678451563935,
+        "zoom": 1.0000000000000004
+      },
+      "accepts_driveup": false,
+      "accepts_fixed_term": true,
+      "accepts_monthly": true,
+      "driveup_radius": null,
+      "pay_on_exit": false,
+      "excluded_payment_methods": [
+        "PayPal"
+      ],
+      "accepts_prebook": true,
+      "has_barrier": false,
+      "barriers": [],
+      "no_return_minutes": null,
+      "has_tariff": false,
+      "display_tariff": true,
+      "ivr_speech_recognition": false,
+      "tariff": "Monday - Saturday\n08:00 - 21:30\nUp to 30 minutes - £0.63\n30 minutes to 1 hour - £1.35\n1 hour to 2 hours - £2.70\n2 hours to 3 hours - £4.50\n3 hours to 4 hours - £9.00\n\nSunday - Sunday\n09:00 - 17:30\nUp to 30 minutes - £0.63\n30 minutes to 1 hour - £1.35\n1 hour to 2 hours - £2.70\n2 hours to 3 hours - £4.50\n3 hours to 4 hours - £9.00\n\nMonday - Sunday\n00:00 - 23:59\nSession - £66.00\n",
+      "fees": null,
+      "season_ticket_url": null,
+      "accepts_double_booking": false,
+      "created_at": "2022-11-04 07:44:22",
+      "enquiry_url": "https://staging.justpark.me/parking-spaces/message/london-road-sevenoaks-london-road-tn13-1at/",
+      "cleansing_state": "approved",
+      "onboarding_step": null,
+      "white_label": null,
+      "min_duration_days": 0,
+      "min_duration_minutes": 0,
+      "timezone": "Europe/London",
+      "notice_period": 0,
+      "permit_details": null,
+      "resubmitted": false,
+      "ev_fleet": false,
+      "ev_charging": false,
+      "evses": [],
+      "flags": [
+        "OCCUPANCY_SURGE_PRICING_ON"
+      ],
+      "disclaimer": null,
+      "in_congestion_zone": false,
+      "is_managed": true,
+      "accepts_checkout_types": [
+        "MONTHLY",
+        "HOURLY_DAILY"
+      ],
+      "private_network": false,
+      "in_ultra_low_emission_zone": false,
+      "cashless": false,
+      "driveup_only": false,
+      "discount_opt_in_enabled": null,
+      "surge_opt_in_enabled": null,
+      "access_instructions": "This is M&S Sevenoaks car park.\r\n\r\n1. The address is London Road, Sevenoaks . Use post code TN13 1AU.\r\n\r\n2. The car park is located in the M&S shopping centre. The entrance can be found on London Rd, A224.\r\n\r\n3. Use the picture for reference.\r\n\r\n4. Park in any available bay.",
+      "access_methods": [],
+      "security_code": null,
+      "formatted_address": "66 London Road, Sevenoaks, London Road, TN13 1AT",
+      "location_instructions": null,
+      "discount_surge": []
+    },
+    "vehicle": {
+      "id": 10529487,
+      "make": "Porsche",
+      "model": "911 Carrera 4s S-a",
+      "model_id": 2073,
+      "registration": "G7",
+      "fuel_type": "PETROL",
+      "is_hired": false,
+      "hire_company": null,
+      "is_primary": false,
+      "created_at": "2022-01-27 09:59:27",
+      "auto_pay": false,
+      "is_auto_pay_eligible": true
+    },
+    "driver_review": null,
+    "receipt_id": 67929540,
+    "url": "https://staging.justpark.me/dashboard/bookings/62989767/",
+    "message_url": "https://staging.justpark.me/dashboard/bookings/62989767/message/",
+    "cancel_url": "https://staging.justpark.me/dashboard/bookings/62989767/owner-cancellation/",
+    "created_at": "2023-10-20 18:13:46",
+    "valid_at": [
+      {
+        "custom_title": null,
+        "address": {
+          "id": 7771484,
+          "address1": "London Road, Sevenoaks",
+          "address2": null,
+          "address3": null,
+          "city": "London Road",
+          "state": null,
+          "country": "GB",
+          "location": {
+            "lat": 51.272538,
+            "lng": 0.190641
+          },
+          "house_no": "66",
+          "postal_code": "TN13 1AT"
+        }
+      }
+    ],
+    "ecommerce_total": 0.63,
+    "ecommerce_revenue": 0.53,
+    "ecommerce_tax": 0.1,
+    "booking_type": "HOURLY_DAILY",
+    "auto_pay": false,
+    "ev_charging": false,
+    "barcode": null,
+    "barcode_type": null,
+    "is_insurable": false,
+    "is_insured": false,
+    "is_extendable": false,
+    "is_cancellable": false,
+    "is_ev_fleet": false,
+    "can_call_cs": "SHOW_NOTHING",
+    "has_failed_ev_payment": null,
+    "cancellation_policy_summary": null,
+    "private_network": false,
+    "obscure_payments": false,
+    "charger_location": null,
+    "charger_instructions": null,
+    "pending_insurance_expires_at": null,
+    "loyalty_promotion": null,
+    "discount": {
+      "discount_amount": {
+        "value": null,
+        "formatted": "£0.00"
+      },
+      "price_before_discount": {
+        "value": 1.12,
+        "formatted": "£1.12"
+      },
+      "price_after_discount": {
+        "value": 1.12,
+        "formatted": "£1.12"
+      }
+    },
+    "payment_method": {
+      "id": 37795552,
+      "source": "card",
+      "authority": null,
+      "is_primary": false,
+      "is_blocked": false,
+      "is_authorised": true,
+      "created_at": "2023-10-16 14:16:00",
+      "address": null,
+      "auto_pay": false,
+      "ev_card": false,
+      "name": "Samuel Piercy",
+      "card_type": "MasterCard",
+      "last_four": "3408",
+      "expiry_date": "2025-04-16 00:00:00"
+    },
+    "corporate_payment_method": null
+  }
+}
