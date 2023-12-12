@@ -1,0 +1,420 @@
+{
+  "data": {
+    "id": 63895864,
+    "start_date": "2023-11-14 10:55:04",
+    "end_date": "2023-11-14 10:56:18",
+    "max_booking_date": null,
+    "status": "past",
+    "is_upcoming": false,
+    "is_cancelled": false,
+    "is_infinite": false,
+    "has_journey": false,
+    "journey_id": null,
+    "vehicle_id": 9504641,
+    "driver": {
+      "id": 7027564,
+      "first_name": "Sam",
+      "company_name": "",
+      "photo": {
+        "small": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        },
+        "normal": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        },
+        "square": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        }
+      },
+      "is_managed": false,
+      "sms": {
+        "phone_number": "+447542633769",
+        "sms_verified": false,
+        "number": "7542633769",
+        "country_code": 44
+      },
+      "phone_number": "+447542633769"
+    },
+    "listing_id": 3009,
+    "pending_cancellation": false,
+    "visual_code": "https://staging.justpark.me/api/v4/users/bookings/63895864/code/",
+    "access_instructions": "Please ensure that you enter the correct registration number of the vehicle to be parked.  Please note that Traffic Attendants patrol this location and will check if there is a parking session in operation for the parked vehicle. If no parking session is confirmed the parked vehicle will be issued a Penalty Charge Notice.\r\n\r\n· Minimum session - 1 hour\r\n· Maximum session - end of car park daily charged hours\r\n\r\nIf you need help and it is not urgent, please use our help centre: https://help.justpark.com/hc/en-gb\r\n                                                                                                                                                                           Should you need urgent help please contact customer support on 0203 318 9792. They are available Monday to Friday 08:00 to 20:00, Saturday and Sunday 09:00 to 18:00, and on bank holidays 09:00 to 16:00. Outside of these hours please use our Help Centre: https://help.justpark.com/hc/en-gb\r\n",
+    "driver_total": {
+      "value": 0.48000000000000004,
+      "formatted": "£0.48"
+    },
+    "owner_total": {
+      "value": 0.39,
+      "formatted": "£0.39"
+    },
+    "voucher": null,
+    "is_reviewed": false,
+    "currency": {
+      "symbol": "£",
+      "code": "GBP"
+    },
+    "drive_up": true,
+    "listing": {
+      "id": 3009,
+      "type": "driveup",
+      "title": "Corporation Square Car Park, Belfast",
+      "custom_title": "Corporation Square Car Park, Belfast",
+      "active": true,
+      "snoozed": false,
+      "slug": "/uk/parking/belfast/s/corporation-square-belfast-bt1-3aj/",
+      "checkout_url": "https://staging.justpark.me/parking-spaces/corporation-square-belfast-bt1-3aj/",
+      "city_slug": "belfast",
+      "description": "Please ensure that you enter the correct registration number of the vehicle to be parked.  Please note that Traffic Attendants patrol this location and will check if there is a parking session in operation for the parked vehicle. If no parking session is confirmed the parked vehicle will be issued a Penalty Charge Notice.\r\n\r\n· Minimum session - 1 hour\r\n· Maximum session - end of car park daily charged hours\nMonday - Saturday\n08:00 - 18:00\nUp to 1 hour - £0.40\n1 hour to 2 hours - £0.80\n2 hours to 3 hours - £1.20\n3 hours to 4 hours - £1.60\n4 hours to 5 hours - £2.00\n5 hours to 6 hours - £2.40\n6 hours to 7 hours - £2.80\n7 hours to 8 hours - £3.20\nOver 8 hours - £3.60\n",
+      "category": "Private car park",
+      "business_type": "Cashless",
+      "type_of_space": "IS_CARPARK",
+      "booking_count": 129386,
+      "owner_type": "BUSINESS",
+      "number_of_spaces": 1930,
+      "vehicleDimensions": "UNKNOWN",
+      "width": "NORMAL",
+      "max_booking_length": 0,
+      "max_booking_length_minutes": null,
+      "has_anpr": true,
+      "currency": {
+        "code": "GBP",
+        "symbol": "£"
+      },
+      "feedback": {
+        "count": 129386,
+        "average_rating": 4.76,
+        "latest_review": {
+          "id": 2208508,
+          "comment": "Great",
+          "rating": "5.00",
+          "convenience": null,
+          "listing_accuracy": null,
+          "listing_value": null,
+          "listing_communication": null,
+          "listing_safety": null,
+          "payment": null,
+          "driver": {
+            "driver_friendliness": null,
+            "driver_promptness": null,
+            "driver_consideration": null
+          },
+          "created_at": "2023-11-02 15:43:30",
+          "sender": {
+            "id": 13144438,
+            "first_name": "Peadar",
+            "company_name": "",
+            "photo": {
+              "small": {
+                "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+                "width": 200,
+                "height": 200
+              },
+              "normal": {
+                "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+                "width": 200,
+                "height": 200
+              },
+              "square": {
+                "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+                "width": 200,
+                "height": 200
+              }
+            },
+            "is_managed": false,
+            "sms": {
+              "phone_number": "",
+              "sms_verified": "",
+              "number": "",
+              "country_code": ""
+            }
+          }
+        }
+      },
+      "cancellation_policy": {
+        "policy": "moderate",
+        "url": "https://staging.justpark.me/api/v4/content/cancellation-policy/"
+      },
+      "height": 4,
+      "facilities": [
+        {
+          "id": "is_high",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Suitable for tall vehicles",
+          "title": "Suitable for tall vehicles"
+        },
+        {
+          "id": "has_multiple_entry",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Multiple entry and exit allowed",
+          "title": "Multiple entry and exit allowed"
+        },
+        {
+          "id": "start_stop",
+          "is_restricted": false,
+          "hidden": true,
+          "description": "Start / Stop timer",
+          "title": "Start / Stop"
+        }
+      ],
+      "address": {
+        "id": 2941076,
+        "address1": "Corporation Square",
+        "address2": "",
+        "address3": "",
+        "city": "Belfast",
+        "state": "",
+        "country": "GB",
+        "location": {
+          "lat": 54.604489,
+          "lng": -5.922708
+        },
+        "house_no": "87",
+        "postal_code": "BT1 3AJ"
+      },
+      "owner": {
+        "id": 3020374,
+        "first_name": "Belfast",
+        "company_name": "Belfast Council",
+        "photo": {
+          "small": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          },
+          "normal": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          },
+          "square": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          }
+        },
+        "is_managed": true,
+        "sms": {
+          "phone_number": "+442033189792",
+          "sms_verified": true,
+          "number": "2033189792",
+          "country_code": 44
+        },
+        "phone_number": "+442033189792"
+      },
+      "photos": [
+        {
+          "id": 138643,
+          "thumbnail": {
+            "url": "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/ba87de5e-3578-4da9-9910-f91281baa0dd-thumb.jpg",
+            "width": 120,
+            "height": 120
+          },
+          "normal": {
+            "url": "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/662362ec-602f-4d59-9f57-fd462dec16a3-normal.jpg",
+            "width": 800,
+            "height": 600
+          }
+        }
+      ],
+      "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=54.604489%2C-5.922708&size=578x198&zoom=14&sensor=false&visual_refresh=true&markers=icon%3Ahttps%3A%2F%2Fwww.justpark.com%2Fmedia%2Fimg%2Ficons%2Fmap-markers%2Flarge%2Fmap-marker-p.png%7C54.604489%2C-5.922708&key=AIzaSyAWSjjD7b6aH6aQw1uuqshkr7heEmbu_2Q&signature=zHIMsxzb9ZlBCDm9gCTjD3ZI-GQ=",
+      "lat": "54.604489",
+      "lng": "-5.922708",
+      "streetview_data": null,
+      "accepts_driveup": true,
+      "accepts_fixed_term": true,
+      "accepts_monthly": false,
+      "driveup_radius": 40,
+      "pay_on_exit": true,
+      "excluded_payment_methods": [
+        "Apple Pay",
+        "Android Pay",
+        "Google Pay",
+        "American Express",
+        "PayPal"
+      ],
+      "accepts_prebook": false,
+      "has_barrier": false,
+      "barriers": [],
+      "no_return_minutes": null,
+      "has_tariff": true,
+      "display_tariff": true,
+      "ivr_speech_recognition": false,
+      "tariff": "Monday - Saturday\n08:00 - 18:00\nUp to 1 hour - £0.40\n1 hour to 2 hours - £0.80\n2 hours to 3 hours - £1.20\n3 hours to 4 hours - £1.60\n4 hours to 5 hours - £2.00\n5 hours to 6 hours - £2.40\n6 hours to 7 hours - £2.80\n7 hours to 8 hours - £3.20\nOver 8 hours - £3.60\n",
+      "fees": {
+        "TRANSACTION_FEE": {
+          "id": 6487,
+          "feeType": "TRANSACTION_FEE",
+          "marginPercentage": 0,
+          "flatFee": 0.08,
+          "jpSplit": 0.08,
+          "clientSplit": 0,
+          "splitType": "flat_amount",
+          "refundable": false,
+          "taxable": true,
+          "precision": null,
+          "ownerCharge": false,
+          "roundable": false,
+          "customFeeRules": [],
+          "isPrivate": false,
+          "optIn": null
+        },
+        "SMS_CONFIRMATION_FEE": {
+          "id": 5800,
+          "feeType": "SMS_CONFIRMATION_FEE",
+          "marginPercentage": 0,
+          "flatFee": 0.1,
+          "jpSplit": 0.1,
+          "clientSplit": 0,
+          "splitType": "flat_amount",
+          "refundable": false,
+          "taxable": true,
+          "precision": null,
+          "ownerCharge": false,
+          "roundable": false,
+          "customFeeRules": [],
+          "isPrivate": true,
+          "optIn": "receives_chargeable_pay_by_phone_confirmation"
+        }
+      },
+      "season_ticket_url": null,
+      "accepts_double_booking": false,
+      "created_at": "2019-05-22 10:44:34",
+      "enquiry_url": "https://staging.justpark.me/parking-spaces/message/corporation-square-belfast-bt1-3aj/",
+      "cleansing_state": "approved",
+      "onboarding_step": null,
+      "white_label": null,
+      "min_duration_days": 0,
+      "min_duration_minutes": 0,
+      "timezone": "Europe/London",
+      "notice_period": 0,
+      "permit_details": null,
+      "resubmitted": false,
+      "ev_fleet": false,
+      "ev_charging": false,
+      "evses": [],
+      "flags": [
+        "EXCLUDE_PARTNER_LISTING",
+        "EXCLUDE_PARTNER_LISTING"
+      ],
+      "disclaimer": null,
+      "in_congestion_zone": false,
+      "is_managed": true,
+      "accepts_checkout_types": [
+        "HOURLY_DAILY"
+      ],
+      "private_network": false,
+      "in_ultra_low_emission_zone": false,
+      "cashless": true,
+      "driveup_only": true,
+      "discount_opt_in_enabled": null,
+      "surge_opt_in_enabled": null,
+      "access_instructions": "Please ensure that you enter the correct registration number of the vehicle to be parked.  Please note that Traffic Attendants patrol this location and will check if there is a parking session in operation for the parked vehicle. If no parking session is confirmed the parked vehicle will be issued a Penalty Charge Notice.\r\n\r\n· Minimum session - 1 hour\r\n· Maximum session - end of car park daily charged hours\r\n\r\nIf you need help and it is not urgent, please use our help centre: https://help.justpark.com/hc/en-gb\r\n                                                                                                                                                                           Should you need urgent help please contact customer support on 0203 318 9792. They are available Monday to Friday 08:00 to 20:00, Saturday and Sunday 09:00 to 18:00, and on bank holidays 09:00 to 16:00. Outside of these hours please use our Help Centre: https://help.justpark.com/hc/en-gb\r\n",
+      "access_methods": [],
+      "security_code": null,
+      "formatted_address": "87 Corporation Square, Belfast, BT1 3AJ",
+      "location_instructions": null,
+      "discount_surge": []
+    },
+    "vehicle": {
+      "id": 9504641,
+      "make": "Vauxhall",
+      "model": "Corsa Sxi",
+      "model_id": 1119,
+      "registration": "DG10VLY",
+      "fuel_type": "PETROL",
+      "is_hired": false,
+      "hire_company": null,
+      "is_primary": true,
+      "created_at": "2021-10-02 16:23:37",
+      "auto_pay": false,
+      "is_auto_pay_eligible": true
+    },
+    "driver_review": null,
+    "receipt_id": 68906309,
+    "url": "https://staging.justpark.me/dashboard/bookings/63895864/",
+    "message_url": "https://staging.justpark.me/dashboard/bookings/63895864/message/",
+    "cancel_url": "https://staging.justpark.me/dashboard/bookings/63895864/owner-cancellation/",
+    "created_at": "2023-11-14 10:55:04",
+    "valid_at": [
+      {
+        "custom_title": "Corporation Square Car Park, Belfast",
+        "address": {
+          "id": 2941076,
+          "address1": "Corporation Square",
+          "address2": "",
+          "address3": "",
+          "city": "Belfast",
+          "state": "",
+          "country": "GB",
+          "location": {
+            "lat": 54.604489,
+            "lng": -5.922708
+          },
+          "house_no": "87",
+          "postal_code": "BT1 3AJ"
+        }
+      }
+    ],
+    "ecommerce_total": 0.09,
+    "ecommerce_revenue": 0.08,
+    "ecommerce_tax": 0.01,
+    "booking_type": "HOURLY_DAILY",
+    "auto_pay": false,
+    "ev_charging": false,
+    "barcode": null,
+    "barcode_type": null,
+    "is_insurable": false,
+    "is_insured": false,
+    "is_extendable": false,
+    "is_cancellable": false,
+    "is_ev_fleet": false,
+    "can_call_cs": "SHOW_NOTHING",
+    "has_failed_ev_payment": null,
+    "cancellation_policy_summary": null,
+    "private_network": false,
+    "obscure_payments": false,
+    "charger_location": null,
+    "charger_instructions": null,
+    "pending_insurance_expires_at": null,
+    "loyalty_promotion": null,
+    "discount": {
+      "discount_amount": {
+        "value": null,
+        "formatted": "£0.00"
+      },
+      "price_before_discount": {
+        "value": 0.48000000000000004,
+        "formatted": "£0.48"
+      },
+      "price_after_discount": {
+        "value": 0.48000000000000004,
+        "formatted": "£0.48"
+      }
+    },
+    "payment_method": {
+      "id": 38495329,
+      "source": "card",
+      "authority": null,
+      "is_primary": true,
+      "is_blocked": false,
+      "is_authorised": true,
+      "created_at": "2023-11-10 17:01:53",
+      "address": null,
+      "auto_pay": false,
+      "ev_card": false,
+      "name": "Mr Lol P",
+      "card_type": "Visa",
+      "last_four": "1111",
+      "expiry_date": "2025-02-10 00:00:00"
+    },
+    "corporate_payment_method": null
+  }
+}
