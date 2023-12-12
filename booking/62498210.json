@@ -1,0 +1,322 @@
+{
+  "data": {
+    "id": 62498210,
+    "start_date": "2023-11-18 16:15:00",
+    "end_date": "2023-11-18 16:30:00",
+    "max_booking_date": null,
+    "status": "cancelled",
+    "is_upcoming": false,
+    "is_cancelled": true,
+    "is_infinite": false,
+    "has_journey": false,
+    "journey_id": null,
+    "vehicle_id": 10529487,
+    "driver": {
+      "id": 7027564,
+      "first_name": "Sam",
+      "company_name": "",
+      "photo": {
+        "small": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        },
+        "normal": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        },
+        "square": {
+          "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+          "width": 200,
+          "height": 200
+        }
+      },
+      "is_managed": false,
+      "sms": {
+        "phone_number": "+447542633769",
+        "sms_verified": false,
+        "number": "7542633769",
+        "country_code": 44
+      },
+      "phone_number": "+447542633769"
+    },
+    "listing_id": 870642,
+    "pending_cancellation": false,
+    "visual_code": "https://staging.justpark.me/api/v4/users/bookings/62498210/code/",
+    "access_instructions": "The space is located at Tylers Cottage, 50 Oakhill Road, Sevenoaks, TN13 1NS.",
+    "driver_total": {
+      "value": 1.68,
+      "formatted": "£1.68"
+    },
+    "owner_total": {
+      "value": 0.98,
+      "formatted": "£0.98"
+    },
+    "voucher": null,
+    "is_reviewed": false,
+    "currency": {
+      "symbol": "£",
+      "code": "GBP"
+    },
+    "drive_up": false,
+    "listing": {
+      "id": 870642,
+      "type": "justpark",
+      "title": "Parking on Oakhill Road, TN13",
+      "custom_title": null,
+      "active": true,
+      "snoozed": false,
+      "slug": "/uk/parking/sevenoaks/s/oakhill-road-sevenoaks-tn13-1ns/",
+      "checkout_url": "https://staging.justpark.me/parking-spaces/oakhill-road-sevenoaks-tn13-1ns/",
+      "city_slug": "sevenoaks",
+      "description": "Multiple spaces located at 50 Oakhill Road, just a 7-8 minute walk from Sevenoaks Station in Sevenoaks. The driveway is big enough to fit all sizes of cars, vans and minibus. Spaces are not delineated as the driveway is unfinished so park where you like, although please do try to keep both access routes clear. \n\nTylers Cottage is one of the few Grade II listed buildings on Oakhill Road.",
+      "category": "Private driveway",
+      "business_type": "P2P",
+      "type_of_space": "IS_DRIVEWAY",
+      "booking_count": 4,
+      "owner_type": "INDIVIDUAL",
+      "number_of_spaces": 2,
+      "vehicleDimensions": "VAN",
+      "width": "NORMAL",
+      "max_booking_length": 0,
+      "max_booking_length_minutes": null,
+      "has_anpr": false,
+      "currency": {
+        "code": "GBP",
+        "symbol": "£"
+      },
+      "feedback": {
+        "count": 4,
+        "average_rating": 0,
+        "latest_review": null
+      },
+      "cancellation_policy": {
+        "policy": "moderate",
+        "url": "https://staging.justpark.me/api/v4/content/cancellation-policy/"
+      },
+      "height": null,
+      "facilities": [
+        {
+          "id": "has_cctv",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Has CCTV.",
+          "title": "CCTV"
+        },
+        {
+          "id": "has_multiple_entry",
+          "is_restricted": false,
+          "hidden": false,
+          "description": "Multiple entry and exit allowed",
+          "title": "Multiple entry and exit allowed"
+        }
+      ],
+      "address": {
+        "id": 9198324,
+        "address1": "Oakhill Road",
+        "address2": "",
+        "address3": "",
+        "city": "Sevenoaks",
+        "state": "",
+        "country": "GB",
+        "location": {
+          "lat": 51.272254,
+          "lng": 0.181139
+        },
+        "house_no": "Tylers Cottage, 50",
+        "postal_code": "TN13 1NS"
+      },
+      "owner": {
+        "id": 1911374,
+        "first_name": "Chris",
+        "company_name": "",
+        "photo": {
+          "small": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          },
+          "normal": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          },
+          "square": {
+            "url": "https://staging.justpark.me/media/img/misc/avatar-st.png",
+            "width": 200,
+            "height": 200
+          }
+        },
+        "is_managed": false,
+        "sms": {
+          "phone_number": "+447855255258",
+          "sms_verified": true,
+          "number": "7855255258",
+          "country_code": 44
+        },
+        "phone_number": "+447855255258"
+      },
+      "photos": [],
+      "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.272254%2C0.181139&size=578x198&zoom=14&sensor=false&visual_refresh=true&markers=icon%3Ahttps%3A%2F%2Fwww.justpark.com%2Fmedia%2Fimg%2Ficons%2Fmap-markers%2Flarge%2Fmap-marker-p.png%7C51.272254%2C0.181139&key=AIzaSyAWSjjD7b6aH6aQw1uuqshkr7heEmbu_2Q&signature=eBWJReWSpNsEM0HXZkSGzUqPGSg=",
+      "lat": "51.272254",
+      "lng": "0.181139",
+      "streetview_data": null,
+      "accepts_driveup": false,
+      "accepts_fixed_term": true,
+      "accepts_monthly": true,
+      "driveup_radius": null,
+      "pay_on_exit": false,
+      "excluded_payment_methods": [
+        "PayPal"
+      ],
+      "accepts_prebook": true,
+      "has_barrier": false,
+      "barriers": [],
+      "no_return_minutes": null,
+      "has_tariff": false,
+      "display_tariff": false,
+      "ivr_speech_recognition": false,
+      "tariff": null,
+      "fees": null,
+      "season_ticket_url": null,
+      "accepts_double_booking": false,
+      "created_at": "2023-07-12 13:27:55",
+      "enquiry_url": "https://staging.justpark.me/parking-spaces/message/oakhill-road-sevenoaks-tn13-1ns/",
+      "cleansing_state": "approved",
+      "onboarding_step": null,
+      "white_label": null,
+      "min_duration_days": 0,
+      "min_duration_minutes": 0,
+      "timezone": "Europe/London",
+      "notice_period": 0,
+      "permit_details": "",
+      "resubmitted": false,
+      "ev_fleet": false,
+      "ev_charging": false,
+      "evses": [],
+      "flags": [
+        "ONBOARDING_HAS_CHARGER",
+        "ONBOARDING_WONT_SHARE_CHARGER",
+        "P2P",
+        "OCCUPANCY_SURGE_PRICING_ON"
+      ],
+      "disclaimer": null,
+      "in_congestion_zone": false,
+      "is_managed": false,
+      "accepts_checkout_types": [
+        "MONTHLY",
+        "HOURLY_DAILY"
+      ],
+      "private_network": false,
+      "in_ultra_low_emission_zone": false,
+      "cashless": false,
+      "driveup_only": false,
+      "discount_opt_in_enabled": null,
+      "surge_opt_in_enabled": null,
+      "access_instructions": "The space is located at Tylers Cottage, 50 Oakhill Road, Sevenoaks, TN13 1NS.",
+      "access_methods": [],
+      "security_code": null,
+      "formatted_address": "Tylers Cottage, 50 Oakhill Road, Sevenoaks, TN13 1NS",
+      "location_instructions": null,
+      "discount_surge": []
+    },
+    "vehicle": {
+      "id": 10529487,
+      "make": "Porsche",
+      "model": "911 Carrera 4s S-a",
+      "model_id": 2073,
+      "registration": "G7",
+      "fuel_type": "PETROL",
+      "is_hired": false,
+      "hire_company": null,
+      "is_primary": false,
+      "created_at": "2022-01-27 09:59:27",
+      "auto_pay": false,
+      "is_auto_pay_eligible": true
+    },
+    "driver_review": null,
+    "receipt_id": 67394863,
+    "url": "https://staging.justpark.me/dashboard/bookings/62498210/",
+    "message_url": "https://staging.justpark.me/dashboard/bookings/62498210/message/",
+    "cancel_url": "https://staging.justpark.me/dashboard/bookings/62498210/owner-cancellation/",
+    "created_at": "2023-10-10 15:20:03",
+    "valid_at": [
+      {
+        "custom_title": null,
+        "address": {
+          "id": 9198324,
+          "address1": "Oakhill Road",
+          "address2": "",
+          "address3": "",
+          "city": "Sevenoaks",
+          "state": "",
+          "country": "GB",
+          "location": {
+            "lat": 51.272254,
+            "lng": 0.181139
+          },
+          "house_no": "Tylers Cottage, 50",
+          "postal_code": "TN13 1NS"
+        }
+      }
+    ],
+    "ecommerce_total": 0.91,
+    "ecommerce_revenue": 0.76,
+    "ecommerce_tax": 0.15,
+    "booking_type": "HOURLY_DAILY",
+    "auto_pay": false,
+    "ev_charging": false,
+    "barcode": null,
+    "barcode_type": null,
+    "is_insurable": false,
+    "is_insured": false,
+    "is_extendable": false,
+    "is_cancellable": false,
+    "is_ev_fleet": false,
+    "can_call_cs": "SHOW_NOTHING",
+    "has_failed_ev_payment": null,
+    "cancellation_policy_summary": null,
+    "private_network": false,
+    "obscure_payments": false,
+    "charger_location": null,
+    "charger_instructions": null,
+    "pending_insurance_expires_at": null,
+    "loyalty_promotion": null,
+    "discount": {
+      "discount_amount": {
+        "value": 0.21,
+        "formatted": "£0.21"
+      },
+      "price_before_discount": {
+        "value": 1.89,
+        "formatted": "£1.89"
+      },
+      "price_after_discount": {
+        "value": 1.68,
+        "formatted": "£1.68"
+      },
+      "code": "15% Discount applied",
+      "description": "15% Discount off 3 bookings - for CRM winback campaign"
+    },
+    "payment_method": {
+      "id": 37615762,
+      "source": "card",
+      "authority": "JUDOPAY",
+      "is_primary": false,
+      "is_blocked": false,
+      "is_authorised": true,
+      "created_at": "2023-10-10 15:20:01",
+      "address": null,
+      "auto_pay": false,
+      "ev_card": false,
+      "name": "Apple Pay",
+      "card_type": "Apple Pay - MasterCard",
+      "last_four": null,
+      "expiry_date": "2073-12-12 17:35:14",
+      "email": null,
+      "temp": true
+    },
+    "corporate_payment_method": null
+  }
+}
