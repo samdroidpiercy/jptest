@@ -1,479 +1,183 @@
 {
-  "data" : [
+  "data": [
     {
-      "photos" : [
-
+      "id": 62989767,
+      "start_date": "2024-03-20T21:15:00+00:00",
+      "end_date": "2024-03-20T21:30:00+00:00",
+      "listing_id": 832784,
+      "owner_id": 10985243,
+      "driver_id": 7027564,
+      "vehicle_id": 10529487,
+      "type": "PREBOOK",
+      "status": "cancelled",
+      "timezone": "Europe/London",
+      "title": "M&S Sevenoaks",
+      "photos": [
+        "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/7c4aa5c1-6ee3-4fe3-baa5-ca022fe39779-normal.jpg"
       ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 48,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
+      "infinite": false,
+      "booking_type": "HOURLY_DAILY",
+      "auto_pay": false,
+      "ev_charging": false,
+      "has_failed_ev_payment": null,
+      "is_ev_fleet": false,
+      "cashless": false,
+      "driveup_only": false,
+      "driver_price": {
+        "data": {
+          "id": "441386d1-fba9-5c44-bbe5-35407aed2dd9",
+          "value": 1.12,
+          "pennies": 112,
+          "currency": "GBP",
+          "formatted": "£1.12"
+        }
       },
-      "title" : "JustPark Hotel Port Florencemouth",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3.2799999999999998
-      },
-      "distance" : "0.13",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.511857999999997,
-        "lng" : -0.134385
-      },
-      "booking_type" : "HOURLY_DAILY"
+      "payment_source": {
+        "data": {
+          "id": 37795552,
+          "source": "card",
+          "card_type": "MasterCard",
+          "last_four": "3408",
+          "expiry_date": "2025-04-16T00:00:00+00:00",
+          "is_primary": false,
+          "auto_pay": false,
+          "organisation_id": null,
+          "ev_card": false
+        }
+      }
     },
     {
-      "photos" : [
-
+      "id": 63784769,
+      "start_date": "2023-12-06T14:45:00+00:00",
+      "end_date": "2023-12-06T15:00:00+00:00",
+      "listing_id": 832784,
+      "owner_id": 10985243,
+      "driver_id": 7027564,
+      "vehicle_id": 10529487,
+      "type": "PREBOOK",
+      "status": "cancelled",
+      "timezone": "Europe/London",
+      "title": "M&S Sevenoaks",
+      "photos": [
+        "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/7c4aa5c1-6ee3-4fe3-baa5-ca022fe39779-normal.jpg"
       ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4754,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
+      "infinite": false,
+      "booking_type": "HOURLY_DAILY",
+      "auto_pay": false,
+      "ev_charging": false,
+      "has_failed_ev_payment": null,
+      "is_ev_fleet": false,
+      "cashless": false,
+      "driveup_only": false,
+      "driver_price": {
+        "data": {
+          "id": "441386d1-fba9-5c44-bbe5-35407aed2dd9",
+          "value": 1.12,
+          "pennies": 112,
+          "currency": "GBP",
+          "formatted": "£1.12"
+        }
       },
-      "title" : "JustPark Hotel East Nicoleville",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "0.32",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.51153,
-        "lng" : -0.12664
-      },
-      "booking_type" : "HOURLY_DAILY"
+      "payment_source": {
+        "data": {
+          "id": 38429623,
+          "source": "card",
+          "name": "Google Pay",
+          "card_type": "Google Pay",
+          "is_primary": false,
+          "auto_pay": false,
+          "organisation_id": null,
+          "ev_card": false
+        }
+      }
     },
     {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 1006,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
+      "id": 62498210,
+      "start_date": "2023-11-18T16:15:00+00:00",
+      "end_date": "2023-11-18T16:30:00+00:00",
+      "listing_id": 870642,
+      "owner_id": 1911374,
+      "driver_id": 7027564,
+      "vehicle_id": 10529487,
+      "type": "PREBOOK",
+      "status": "cancelled",
+      "timezone": "Europe/London",
+      "title": "Parking on Oakhill Road",
+      "photos": [],
+      "infinite": false,
+      "booking_type": "HOURLY_DAILY",
+      "auto_pay": false,
+      "ev_charging": false,
+      "has_failed_ev_payment": null,
+      "is_ev_fleet": false,
+      "cashless": false,
+      "driveup_only": false,
+      "driver_price": {
+        "data": {
+          "id": "597c8d1c-9f4a-5818-9576-692197277e21",
+          "value": 1.68,
+          "pennies": 168,
+          "currency": "GBP",
+          "formatted": "£1.68"
+        }
       },
-      "title" : "JustPark Hotel East Rossmouth",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "0.45",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.513497000000001,
-        "lng" : -0.124898
-      },
-      "booking_type" : "HOURLY_DAILY"
+      "payment_source": {
+        "data": {
+          "id": 37615762,
+          "source": "card",
+          "name": "Apple Pay",
+          "card_type": "Apple Pay - MasterCard",
+          "is_primary": false,
+          "auto_pay": false,
+          "organisation_id": null,
+          "ev_card": false
+        }
+      }
     },
     {
-      "photos" : [
-
+      "id": 62932903,
+      "start_date": "2023-11-15T17:00:00+00:00",
+      "end_date": "2023-11-15T17:11:00+00:00",
+      "listing_id": 832784,
+      "owner_id": 10985243,
+      "driver_id": 7027564,
+      "vehicle_id": 10529487,
+      "type": "PREBOOK",
+      "status": "cancelled",
+      "timezone": "Europe/London",
+      "title": "M&S Sevenoaks",
+      "photos": [
+        "https://uploads.justpark.com/cdn/media/uploaded/listing-photos/7c4aa5c1-6ee3-4fe3-baa5-ca022fe39779-normal.jpg"
       ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 45,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
+      "infinite": false,
+      "booking_type": "HOURLY_DAILY",
+      "auto_pay": false,
+      "ev_charging": false,
+      "has_failed_ev_payment": null,
+      "is_ev_fleet": false,
+      "cashless": false,
+      "driveup_only": false,
+      "driver_price": {
+        "data": {
+          "id": "441386d1-fba9-5c44-bbe5-35407aed2dd9",
+          "value": 1.12,
+          "pennies": 112,
+          "currency": "GBP",
+          "formatted": "£1.12"
+        }
       },
-      "title" : "JustPark Hotel Kimberlyland",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 2.9199999999999999
-      },
-      "distance" : "0.46",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.506672000000002,
-        "lng" : -0.142952
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4792,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Murphyville",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "0.63",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.511499000000001,
-        "lng" : -0.14816299999999999
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4350,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Port Lilytown",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "0.65",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.505009000000001,
-        "lng" : -0.146397
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4752,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Sophieland",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "0.70",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.499882999999997,
-        "lng" : -0.13529099999999999
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4753,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Meganside",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "0.74",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.503901999999997,
-        "lng" : -0.11960899999999999
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 39,
-      "price" : {
-        "amount" : 14.1,
-        "currency" : "GBP",
-        "formatted" : "£14.10"
-      },
-      "title" : "JustPark Hotel New Graham",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3.1200000000000001
-      },
-      "distance" : "0.75",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.499979000000003,
-        "lng" : -0.12698699999999999
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 57,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel New Brandonborough",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3.1200000000000001
-      },
-      "distance" : "0.77",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.516826000000002,
-        "lng" : -0.11956700000000001
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 17,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Grayfurt",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3.1200000000000001
-      },
-      "distance" : "0.78",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.498654999999999,
-        "lng" : -0.13514499999999999
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 35,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel East Jackhaven",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3
-      },
-      "distance" : "0.97",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.518524999999997,
-        "lng" : -0.15148700000000001
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 42,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Port Christopherland",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3.0800000000000001
-      },
-      "distance" : "0.99",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.498961999999999,
-        "lng" : -0.119075
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4744,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel East Rossmouth",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "1.03",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.497349,
-        "lng" : -0.121194
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4724,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Wilkinsonburgh",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "1.03",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.522627,
-        "lng" : -0.121057
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 27,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Daniellemouth",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3
-      },
-      "distance" : "1.07",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.501485000000002,
-        "lng" : -0.15440400000000001
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 58,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Port Alexanderport",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 3.2400000000000002
-      },
-      "distance" : "1.15",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.520305999999998,
-        "lng" : -0.112789
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 20,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Heatherborough",
-      "reviews" : {
-        "count" : 25,
-        "rating" : 2.9199999999999999
-      },
-      "distance" : "1.13",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.521313999999997,
-        "lng" : -0.114898
-      },
-      "booking_type" : "HOURLY_DAILY"
-    },
-    {
-      "photos" : [
-
-      ],
-      "cluster_hash" : null,
-      "availability" : -1,
-      "id" : 4805,
-      "price" : {
-        "amount" : 13.300000000000001,
-        "currency" : "GBP",
-        "formatted" : "£13.30"
-      },
-      "title" : "JustPark Hotel Patrickview",
-      "reviews" : {
-        "count" : 0,
-        "rating" : 0
-      },
-      "distance" : "1.22",
-      "type" : "justpark",
-      "coordinates" : {
-        "lat" : 51.522818000000001,
-        "lng" : -0.114089
-      },
-      "booking_type" : "HOURLY_DAILY"
+      "payment_source": {
+        "data": {
+          "id": 37886772,
+          "source": "card",
+          "name": "Apple Pay",
+          "card_type": "Apple Pay - MasterCard",
+          "is_primary": false,
+          "auto_pay": false,
+          "organisation_id": null,
+          "ev_card": false
+        }
+      }
     }
   ]
 }
