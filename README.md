@@ -18,7 +18,7 @@ There is no authentication required to use these endpoints.
 
 Requirements
 ------------
-- Your code must be in Swift, using UIKit framework compatible with iOS12 onward
+- Your code must be in Swift, using UIKit framework compatible with iOS14 onward
 - It must compile and run in the iPhone Simulator across various sized devices
 - Consider how you might scale the app in the future and how the chosen architect will affect this
 - We want to see how you would approach UI/UX, and will be evaluating the app for creativity and quality of the user interface and experience
