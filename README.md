@@ -6,11 +6,11 @@ We have created a small technical test for you to showcase how you work. Your ta
 Challenge
 ---------
 
-Retrieve and display a driver's booking results from the following query, using information you deem relevant and bearing in mind the time limit.:
+Using network requests, retrieve and display a driver's booking results from the following query. Use information you deem relevant bearing in mind the time limit:
 
 https://raw.githubusercontent.com/samdroidpiercy/jptest/main/bookings.json
 
-Retrieve the details of a booking when tapped and create a view to display the details of the bookings to the driver, using information you deem relevant and bearing in mind the time limit.
+Retrieve the details of a booking when tapped and create a view to display the details of the bookings to the driver. Use information you deem relevant and bearing in mind the time limit:
 
 https://raw.githubusercontent.com/samdroidpiercy/jptest/main/booking/{BOOKING_ID}.json
 
